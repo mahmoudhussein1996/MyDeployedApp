@@ -9,12 +9,12 @@
 <br></br>
 <div><a href="#dream" >Dream </a> </div>
 <br></br>
-<div><a href="#makeMyNikah" ></a> Make My Nikah</div>
+<div><a href="#make_my_nikah" >Dream </a> </div>
 <br></br>
 
  <p id="guidle"></p>
  
-# Bareq
+# Guidlle
 
 <!-- <a href="https://bareq.me/"><img src="https://bareq.me/assets/imgs/logo-arabic.PNG" alt="Logo" border="0"></a><p style="display: inline-block"> -->
 Guidlle is an application that offers access to educational resources from primary school through employment, It helps you in obtaining your lessons in all stages of education and testing on them, and helps you in choosing your college in the correct academic way using artificial intelligence.
@@ -141,7 +141,7 @@ Dream App is your key to unlocking your dream interpretation. Connect with verif
 <!-- ============================================================================================================= -->
 
 <br></br>
- <p id="makeMyNikah"></p>
+ <p id="make_my_nikah"></p>
  
 # Make My Nikah
 
