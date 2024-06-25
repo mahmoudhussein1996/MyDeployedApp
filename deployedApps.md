@@ -1,14 +1,41 @@
+
+<div><a href="#guidle" >Guidlle جايدلي</a> </div>
+<br></br>
 <div><a href="#bareq" >Bareq بارك</a> </div>
 <br></br>
 <div><a href="#schoopedia" >Schoopedia سكوبيديا</a> </div>
 <br></br>
 <div><a href="#jeras" > Jeras غراس</a> </div>
 <br></br>
-<div><a href="#dream" >Dream دريم</a> </div>
+<div><a href="#dream" >Dream </a> </div>
 <br></br>
 <div><a href="#makeMyNikah" ></a> Make My Nikah</div>
 <br></br>
 
+ <p id="bareq"></p>
+ 
+# Bareq
+
+<!-- <a href="https://bareq.me/"><img src="https://bareq.me/assets/imgs/logo-arabic.PNG" alt="Logo" border="0"></a><p style="display: inline-block"> -->
+Guidlle is an application that offers access to educational resources from primary school through employment, It helps you in obtaining your lessons in all stages of education and testing on them, and helps you in choosing your college in the correct academic way using artificial intelligence.
+</p>
+<div id="badges">
+ <a href= "https://play.google.com/store/apps/details?id=com.daleeldev.guidlle">
+   <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+ </a>
+ <!-- <a href= "https://apps.apple.com/eg/app/learn-with-bareq/id6474672522">
+   <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/> -->
+ </a>
+</div>
+<br></br>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+
+ <p id="guidle"></p>
+
+
+ <br></br>
  <p id="bareq"></p>
  
 # Bareq
@@ -95,7 +122,7 @@ Jeras is  an application it’s provide all service providers committed to the e
  
  <p id="dream"></p>
  
-# Main Pro
+# Dream
 
 <a href="https://dream-app.net/"><img src="https://dream-app.net/wp-content/uploads/2024/03/logo-dream-1-150x150.png" alt="qq" border="0"></a>
 
@@ -114,11 +141,11 @@ Dream App is your key to unlocking your dream interpretation. Connect with verif
 <!-- ============================================================================================================= -->
 
 <br></br>
- <p id="makeMyNikah"></p>
+ <p id="makeMyNikahv"></p>
  
 # Make My Nikah
 
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/ad/33/cdad33c7-58cf-3f4f-74dd-ca90e9bff9ba/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="100" height="100"/>
+<a href="https://makemynikah.com/"><img src="https://makemynikah.com/wp-content/uploads/2024/05/Frame-1171275019.svg" alt="qq" border="0"></a>
 
 <p style="display: inline-block"> 
 The internet and social media has made it easy to meet anyone these days, but harder to find the right person. How do you find someone who aligns with your beliefs and do it in a way that doesn’t compromise your integrity? Make My Nikah is founded by Islamic scholars and callers to Islam who have carefully envisioned what a truly Halal matrimonial application would look like. It not only allows you to communicate with the integrity we are asked to bring as Muslims but prioritizes making your future marriage work with ample support from verified relationship coaches and educational material to grow your understanding
