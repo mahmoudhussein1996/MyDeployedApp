@@ -12,7 +12,7 @@
 <div><a href="#makeMyNikah" ></a> Make My Nikah</div>
 <br></br>
 
- <p id="bareq"></p>
+ <p id="guidle"></p>
  
 # Bareq
 
@@ -141,7 +141,7 @@ Dream App is your key to unlocking your dream interpretation. Connect with verif
 <!-- ============================================================================================================= -->
 
 <br></br>
- <p id="makeMyNikahv"></p>
+ <p id="makeMyNikah"></p>
  
 # Make My Nikah
 
