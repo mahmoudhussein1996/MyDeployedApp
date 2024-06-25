@@ -9,7 +9,7 @@
 <br></br>
 <div><a href="#dream" >Dream </a> </div>
 <br></br>
-<div><a href="#make_my_nikah" >Dream </a> </div>
+<div><a href="#make_my_nikah" >Make My Nikah </a> </div>
 <br></br>
 
  <p id="guidle"></p>
